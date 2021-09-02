@@ -53855,7 +53855,7 @@ s=Y.aa_(-1.5707963267948966,T.dM(H.a([m,L.cd("Madhur Maurya",s==null?p:s.cf(C.b4
 m=o.d
 return T.nM(p,T.br(T.dM(H.a([s,Y.aa_(1.5707963267948966,T.dM(H.a([L.cd("Software Developer",m==null?p:m.cf(C.dG),p,p),T.br(p,16,p),T.tV(H.a([B.a7_(L.cd("Resume",A.bW(p,p,C.bm,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p),p,p),new M.Qs(),p),T.br(p,p,16),D.aap(L.cd("Contact",A.bW(p,p,C.j,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p),p,p),new M.Qt(b),p)],r))],r),C.aS,C.ag,C.cz),0,q,112)],r),C.aS,C.cy,C.ao),n.b,p),p,p,n.a*0.1,p,p,p)}}
 M.Qs.prototype={
-$0:function(){T.Z9("http://bit.ly/resume-madhur")},
+$0:function(){T.Z9("http://bit.ly/madhur-resume")},
 $S:0}
 M.Qt.prototype={
 $0:function(){Y.U7(this.a,!1,t.tG).jy(2)},
